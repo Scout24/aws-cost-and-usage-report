@@ -1,0 +1,10 @@
+id: aws-cost-and-usage-report
+name: aws-cost-and-usage-report
+description: Simple script to generate a cost report using the AWS Cost Explorer API
+type: ignore
+lifecycle: preview
+exposure:
+  - non-applicable
+vertical: s24
+owners:
+  - developerexperience@scout24.com
